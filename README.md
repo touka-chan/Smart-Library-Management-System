@@ -23,4 +23,7 @@ Features
 - Delete Member Record
 - Search Member
 
+lance
+bradly 
+
 verify
