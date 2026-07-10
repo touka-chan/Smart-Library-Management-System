@@ -25,3 +25,5 @@ Features
 
 lance
 bradly 
+
+verify
